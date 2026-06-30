@@ -21,7 +21,7 @@ A **production-ready** Flutter flashcard app with Firebase, Riverpod, GoRouter, 
 
 ---
 
-## 🚀 Quick Start (15 minutes)
+## 🚀 Quick Start 
 
 ### Step 1 — Prerequisites
 ```bash
@@ -217,4 +217,3 @@ google_fonts: ^6.2.1         # DM Sans font
 
 ---
 
-Built with ❤️ using Flutter, Firebase & Gemini AI
